@@ -1,7 +1,7 @@
 # COMSOL Nanoparticle Model
 
 ## Background
-This model was created in COMSOL Multiphysics 5.6, but can be opened with later versions.
+This model requires COMSOL 6.0 or later to open.
 
 ## Usage
 Material parameters and geometry can be changed using the COMSOL GUI; however, please ensure correct domain assignments after making any changes.
